@@ -1,0 +1,1 @@
+// sentimentAnalysis.ts (from greenlit)
